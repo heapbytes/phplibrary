@@ -1,3 +1,4 @@
 # phplibrary
-php college proj
-# PHP based library
+
+A library management system programmed in PHP
+
