@@ -1,6 +1,5 @@
 ## The project is availabe at : https://github.com/heapbytes/phplibrary
 
-## Current version maybe not a updated version.
 ## how to run : 
 
 1. import the database file 
