@@ -2,9 +2,15 @@
 
 ## how to run : 
 
-1. import the database file 
-	a. in windows : xampp
-	b. in linux : sudo mysql -u root -p library < library.sql
+### 1. import the database file 
 
-2. start php server : linux - sudo php -S localhost:4444 -t ./
+	a. windows : xampp (phpmyadmin)
+	
+	b. linux : sudo mysql -u root -p library < library.sql
+
+### 2. start php server : 
+	
+	a. windows - xampp (apache and mysql server)
+	
+	b. linux - sudo php -S localhost:4444 -t ./
 
